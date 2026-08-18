@@ -17,7 +17,7 @@ I'm a Computer Science graduate from Pakistan passionate about building practica
 * **Languages:** Python, JavaScript, TypeScript, C++
 * **Frontend:** React.js, Next.js
 * **Backend:** Node.js, Express.js, FastAPI, Flask
-* **Databases:** MongoDB, Firebase Firestore, MySQL
+* **Databases:** MongoDB, Firebase Firestore
 * **AI/ML:** Machine Learning, Deep Learning, Computer Vision, LLMs, Generative AI
 * **Frameworks & Libraries:** TensorFlow, Scikit-learn, Pandas, NumPy, LangChain
 * **Tools & Platforms:** Git, GitHub, Postman, Hugging Face, Vercel, Streamlit, Google Colab, Kaggle
